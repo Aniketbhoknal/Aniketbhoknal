@@ -5,7 +5,7 @@ add banner (use your links) :
 <h3 align="center">A passionate Software Developer</h3>
 
 add Right Gif Image
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.sanity.io/images/ordgikwe/production/816651876948b381a9d998556b03b5263f996ec1-800x600.png?w=667&h=500&auto=format)")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketbhonal&label=Profile%20views&color=0e75b6&style=flat" alt="aniketbhonal" /> </p>
 
