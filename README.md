@@ -1,16 +1,21 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aniket</h1>
-<h3 align="center">An Aspiring FullStack Developer </h3>
+<h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h1 align="center">Hi 👋, I'm Aniket😃</h1>
-<h3 align="center">A passionate Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketbhoknal&label=Profile%20views&color=0e75b6&style=flat" alt="aniketbhoknal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketbhoknal" alt="aniketbhoknal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 I’m currently working on **MAchine learning **
+
+- 🌱 I’m currently learning **Backend**
+
+- 💬 Ask me about **Android , MEARN**
+
+- 📫 How to reach me **aniketbhoknal17@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 - 🌱 I’m currently learning **Backend**
 
