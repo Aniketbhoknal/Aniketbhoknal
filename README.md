@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning about Full stack development 
 
-- 👯 I’m looking to collaborate java projects and Web Dev stuff
+- 👯 I’m looking to collaborate java projects and Web Dev 
 
-- 🤔 I’m looking for help in learning about Web Dev and JavaScript 
+- 🤔 I’m looking for help in learning about Web Dev 
 
 - 💬 Ask me about anything and everything
 
