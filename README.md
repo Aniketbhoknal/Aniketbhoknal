@@ -1,5 +1,5 @@
 ![Header](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<h1 align="center">Hello World <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> , I'm Aniket</h1>
+<h1 align="center">Hello World <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> , I'm Aniket😀</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
