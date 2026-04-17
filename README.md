@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 I’m currently learning about Full stack development 
+- 🌱 I’m currently learning about AI Data Full stack development 
 
 - 👯 I’m looking to collaborate java projects and Web Dev 
 
